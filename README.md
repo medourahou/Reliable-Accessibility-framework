@@ -1,1 +1,1 @@
-# Reliable-Accessibility-framework
+# Probabilistic Models of Travel Times in Shared Mobility for Evaluating Accessibility
