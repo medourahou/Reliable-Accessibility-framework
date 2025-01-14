@@ -9,8 +9,9 @@ This project addresses the challenges of evaluating accessibility in Shared Mobi
 - Creating time-expanded graphs for accessibility analysis
 - Combining conventional public transport and SMS networks
 - Evaluating accessibility improvements in low-density areas
+<img src="framework pipeline.png" alt="Framrwork pipeline" width="800"/>
 
-## Models Implemented
+## Models 
 
 The following probabilistic ML models are implemented to learn travel time distributions:
 
