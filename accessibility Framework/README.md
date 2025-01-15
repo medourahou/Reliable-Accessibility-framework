@@ -56,20 +56,7 @@ cd reliable-accessibility-framework
 pip install -r requirements.txt
 ```
 
-## Usage
 
-```python
-# Example code for model training and evaluation
-from models import LRGD, CKDE, RFRGD, BNN
-from utils import evaluate_model
-
-# Train models
-model = RFRGD()  # or any other implemented model
-model.fit(X_train, y_train)
-
-# Evaluate performance
-results = evaluate_model(model, X_test, y_test)
-```
 
 ## Data Requirements
 
@@ -87,13 +74,6 @@ Models are evaluated using multiple metrics:
 - Negative Log-Likelihood (NLL)
 - Kullback-Leibler Divergence (KLD)
 
-## Results
-
-The RFRGD model showed the best overall performance:
-- MAE: 176.33 seconds
-- RMSE: 255.42 seconds
-- NLL: 6.97
-- KLD: 10.04
 
 ## Contributing
 
