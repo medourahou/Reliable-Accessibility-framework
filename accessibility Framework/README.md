@@ -8,7 +8,7 @@ This project addresses the challenges of evaluating accessibility in Shared Mobi
 - Implementing probabilistic ML models to predict travel time distributions
 - Creating time-expanded graphs for accessibility analysis
 - Combining conventional public transport and SMS networks
-- Evaluating accessibility improvements in low-density areas
+- Evaluating accessibility improvements in low-density areas using [CityChrone](http://citychrone.org/)
 <img src="framework pipeline.png" alt="Framrwork pipeline" width="800"/>
 
 ## Models 
