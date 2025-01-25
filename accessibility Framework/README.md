@@ -47,7 +47,7 @@ The following probabilistic ML models are implemented to learn travel time distr
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/reliable-accessibility-framework.git
+git clone https://github.com/medourahou/reliable-accessibility-framework.git
 
 # Navigate to project directory
 cd reliable-accessibility-framework
