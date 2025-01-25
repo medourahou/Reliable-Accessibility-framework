@@ -11,3 +11,6 @@ sympy==1.13.1
 torch==2.5.1+cu118
 torchvision==0.20.1+cu118
 tqdm==4.66.5
+folium == 0.14.0
+requests == 2.32.3
+geopy == 2.4.1
