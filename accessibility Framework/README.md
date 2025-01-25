@@ -83,7 +83,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This work has been funded by Région Île-de-France. Data was provided by Padam Mobility.
 
-## Contact
-
-- Mohamed Ourahou - mohamed.ourahou@telecom-sudparis.eu
-- Project Link: [https://github.com/medourahou/Reliable-Accessibility-framework](https://github.com/medourahou/Reliable-Accessibility-framework)
